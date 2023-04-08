@@ -15,7 +15,7 @@ const EmailContent = ({
 }) => {
   return (
     <>
-      <h4>Email Selected({unselectedCount})</h4>
+      <h4>Email Selected({counter.length})</h4>
 
       {/* Email header */}
       <div>
