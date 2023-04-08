@@ -1,0 +1,17 @@
+.left__sidebar {
+  background-color: #333;
+  /* min-height: 100vh;
+  max-width: 30vw; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.btn {
+  width: 100px;
+  margin: 10px 0;
+}
+.logout__btn {
+  position: absolute;
+  bottom: 0;
+  width: 100px;
+}
